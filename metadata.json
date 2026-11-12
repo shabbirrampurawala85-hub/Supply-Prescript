@@ -1,0 +1,6 @@
+{
+  "name": "Supply Prescript - Closed-Loop Prescriptive Analytics",
+  "description": "Closed-loop prescriptive analytics engine for supply chain operations, featuring predictive disruption models, mathematical optimization, and transactional write-back to Snowflake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
